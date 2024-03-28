@@ -56,3 +56,5 @@ git commit -m 'file1新增了xxx模块'
 git add file2
 git commit -m '修复了某个bug'
 ```
+
+add test lines here.
